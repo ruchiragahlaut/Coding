@@ -1,0 +1,2 @@
+**Important ques**
+* lastIndex
