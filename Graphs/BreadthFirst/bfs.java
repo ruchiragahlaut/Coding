@@ -1,4 +1,4 @@
-package BreadthFirst;
+package Graphs.BreadthFirst;
 import java.util.*;
 
 public class bfs {

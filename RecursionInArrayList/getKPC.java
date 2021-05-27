@@ -1,4 +1,4 @@
-package Code1.RecursionInArrayList;
+package RecursionInArrayList;
 
 /**
  * getKPC
