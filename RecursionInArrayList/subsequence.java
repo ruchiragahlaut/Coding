@@ -2,7 +2,10 @@ package RecursionInArrayList;
 
 /**
  * subsequence
+
  * input -- abc
+ * output -- [, c, b, bc, a, ac, ab, abc]
+ 
  */
 
 import java.util.*;

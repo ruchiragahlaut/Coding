@@ -13,8 +13,8 @@ public class firstIndex {
             return idx;
         }
         
-        int ans = firstIndex(arr,idx+1,x);
-        return ans;
+       int ans = firstIndex(arr,idx+1,x);
+       return ans;
         
         
 }
