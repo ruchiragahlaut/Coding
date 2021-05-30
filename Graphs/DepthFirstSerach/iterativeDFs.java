@@ -3,6 +3,20 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.*;
 // if you change the queue to stack in bfs it convert to iterative dfs
+/*
+7
+8
+0 1 10
+1 2 10
+2 3 10
+0 3 10
+3 4 10
+4 5 10
+5 6 10
+4 6 10
+2
+
+*/
 public class iterativeDFs {
 
     static class Edge {

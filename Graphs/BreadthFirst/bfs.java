@@ -1,6 +1,18 @@
 package Graphs.BreadthFirst;
 import java.util.*;
 
+/* 7
+8
+0 1 10
+1 2 10
+2 3 10
+0 3 10
+3 4 10
+4 5 10
+5 6 10
+4 6 10
+2 */
+
 public class bfs {
 
     static class Edge {

@@ -2,6 +2,19 @@ package Graphs.BreadthFirst;
 import java.io.*;
 import java.util.*;
 
+/* 7
+9
+0 1 10
+1 2 10
+2 3 10
+0 3 40
+3 4 2
+4 5 3
+5 6 3
+4 6 8
+2 5 5
+0 */
+
 public class dijkstraAlgorithm {
    static class Edge {
       int src;

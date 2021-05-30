@@ -3,6 +3,14 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.*;
 
+/* input --
+ 0 1
+1 2
+2 3
+0 3
+4 5
+5 6
+4 6 */
 public class topologicalSort {
     static class Edge {
         int src;
