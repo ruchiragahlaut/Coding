@@ -1,4 +1,4 @@
-package RecursionInArrayList;
+package Code1.RecursionInArrayList;
 
 /**
  * subsequence
@@ -15,9 +15,22 @@ public class subsequence {
         Scanner sc = new Scanner(System.in);
         
         String s = sc.nextLine();
+        int n = sc.nextInt();
+
+        String [] input = new String[n];
+        for(int i=0;i<n;i++){
+            input[i] = sc.next();
+        }
         
         ArrayList<String> rres = gss(s);
-        System.out.println(rres);
+        for(int i=0;i<n;i++){
+            if(rres.contains(input[i])){
+                System.out.println("POSITIVE");
+            }
+            else{
+                System.out.println("NEGATIVE");
+         }
+    }
         
         
         

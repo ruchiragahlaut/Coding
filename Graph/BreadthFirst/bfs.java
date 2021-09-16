@@ -1,4 +1,4 @@
-package Graphs.BreadthFirst;
+package Code1.Graph.BreadthFirst;
 import java.util.*;
 
 /* 7

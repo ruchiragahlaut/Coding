@@ -1,4 +1,4 @@
-package Graphs.DepthFirstSerach;
+package Code1.Graphs.DepthFirstSerach;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.*;

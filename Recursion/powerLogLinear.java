@@ -1,4 +1,4 @@
-package Recursion;
+package Code1.Recursion;
 import java.util.*;
 
 /* Note1 -> The previous version expects the call stack to be of n height. This function expects call function to be only log(n) high.

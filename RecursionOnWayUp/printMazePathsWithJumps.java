@@ -1,4 +1,4 @@
-package RecursionOnWayUp;
+package Code1.RecursionOnWayUp;
 import java.util.*;
 
 public class printMazePathsWithJumps {

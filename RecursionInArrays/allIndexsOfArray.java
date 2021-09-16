@@ -13,7 +13,7 @@
 4
 */
 
-package RecursionInArrays;
+package Code1.RecursionInArrays;
 import java.util.*;
 /**
  * allIndexsOfArray

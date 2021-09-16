@@ -1,4 +1,4 @@
-package Graphs;
+package Code1.Graphs;
 import java.util.Scanner;
 
 public class knightsTour{

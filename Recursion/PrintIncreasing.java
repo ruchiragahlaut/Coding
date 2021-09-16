@@ -1,4 +1,4 @@
-package Recursion;
+package Code1.Recursion;
 import java.util.*;
 
 public class PrintIncreasing {

@@ -1,4 +1,4 @@
-package Graphs;
+package Code1.Graphs;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;

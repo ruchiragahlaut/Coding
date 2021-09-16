@@ -1,4 +1,4 @@
-package BackTracking;
+package Code1.BackTracking;
 import java.util.*;
 public class knightTour {
 

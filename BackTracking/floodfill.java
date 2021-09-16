@@ -1,4 +1,4 @@
-package BackTracking;
+package Code1.BackTracking;
 
 import java.io.*;
 import java.util.*;

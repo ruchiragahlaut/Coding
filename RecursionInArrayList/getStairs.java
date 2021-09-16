@@ -1,4 +1,4 @@
-package RecursionInArrayList;
+package Code1.RecursionInArrayList;
 
 /**
  * getStairs

@@ -1,4 +1,4 @@
-package RecursionInArrays;
+package Code1.RecursionInArrays;
 import java.util.*;
 
 public class maxOfArray {
